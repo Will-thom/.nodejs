@@ -1,0 +1,19 @@
+Node is a JS runtime enviroment.
+
+It is not a framework.
+
+Its not a language.
+
+Written in c++.
+
+Ebay, Uber, Nasa, Nefflix have used
+NodeJS.
+
+Uses V8 Chrome Engine with c++.
+
+Module Systems. JS Modules. JS ES6 Modules.
+
+
+
+
+
